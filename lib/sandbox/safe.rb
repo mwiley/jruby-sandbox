@@ -305,6 +305,7 @@ module Sandbox
       sort_by
       to_a
       zip
+      reduce
     ].freeze
 
     STRING_METHODS = %w[
