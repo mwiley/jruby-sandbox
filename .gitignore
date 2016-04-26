@@ -2,7 +2,6 @@
 .bundle
 .ruby-gemset
 Gemfile.lock
-lib/sandbox/sandbox.jar
 pkg/*
 tags
 tmp
