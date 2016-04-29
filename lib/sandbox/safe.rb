@@ -320,6 +320,7 @@ module Sandbox
       capitalize!
       casecmp
       center
+      chars
       chomp
       chomp!
       chop
